@@ -11,7 +11,9 @@ Built on three well-supported findings:
 ## Run it
 
 ```bash
-cargo run
+cargo run --bin claude
+cargo run --bin grok
+cargo run --bin legacy
 ```
 
 ## Example output

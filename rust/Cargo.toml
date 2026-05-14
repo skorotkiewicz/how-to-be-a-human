@@ -5,3 +5,15 @@ edition = "2024"
 
 [dependencies]
 rand = "0.10.1"
+
+[[bin]]
+name = "claude"
+path = "src/claude-updated.rs"
+
+[[bin]]
+name = "grok"
+path = "src/grok-updated.rs"
+
+[[bin]]
+name = "legacy"
+path = "src/main.rs"
