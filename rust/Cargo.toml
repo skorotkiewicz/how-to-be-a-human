@@ -15,5 +15,9 @@ name = "grok"
 path = "src/grok-updated.rs"
 
 [[bin]]
+name = "glm"
+path = "src/glm-updated.rs"
+
+[[bin]]
 name = "legacy"
 path = "src/main.rs"
